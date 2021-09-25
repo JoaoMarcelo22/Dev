@@ -1,2 +1,2 @@
-# PHP
- Todos os projetos em PHP
+# DEV
+ Todos os projetos e exercicios do curso
