@@ -1,1 +1,0 @@
-alter table clientes modify nome varchar(150)
