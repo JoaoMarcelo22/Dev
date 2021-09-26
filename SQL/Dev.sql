@@ -1,1 +1,1 @@
-update produtos set nome = 'folé de frango', preco = 9.7 where codigo = 7
+delete from produtos wh
