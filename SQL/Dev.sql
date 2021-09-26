@@ -1,0 +1,1 @@
+alter table clientes add email varchar(50)
