@@ -1,1 +1,1 @@
-alter table clientes add email varchar(50)
+alter table clientes modify nome varchar(150)
