@@ -1,1 +1,1 @@
-delete from produtos wh
+select nome,preco,codigo from produtos where nome like '%z'
